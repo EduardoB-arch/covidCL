@@ -1,0 +1,2 @@
+# covidCL
+datos agreagados Chile
